@@ -6,3 +6,4 @@ For example, a company might use keyloggers to monitor the activity of its emplo
 Non-malicious keyloggers can also be used by law enforcement or forensic investigators to collect evidence in criminal investigations. In such cases, the use of keyloggers is typically authorized by a court order, and must be carried out in accordance with relevant laws and regulations.
 
 Overall, the use of non-malicious keyloggers can be justified in certain situations, but it's important to obtain consent and use the tool in accordance with relevant laws and regulations.
+log_file is a variable that stores the name of the log file that the keylogger will use to record the keystrokes. In this case, the log file name is 'key_log.txt'.
